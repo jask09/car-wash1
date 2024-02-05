@@ -5,7 +5,7 @@
 
  ### Service Customization
  
->Tailor your car wash experience by selecting from various service packages. Choose from options like basic wash, interior cleaning, waxing, and more, ensuring your car gets the care it deserves.
+>Tailor your car wash experience by selecting from various service packages. Choose from options likeThe Wroks, Super Duper, Super Wash, and more, ensuring your car gets the care it deserves.
 
 ### Technologies Used
 >MongoDB/Mongoose
